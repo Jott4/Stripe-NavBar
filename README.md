@@ -15,7 +15,7 @@ yarn start
 
 ## Example
 
-![example](https://gph.is/g/ZdjyLgw)
+![example](https://media.giphy.com/media/3B1XXH9N8ZjjCvAl9V/giphy.gif)
 
 
 ## Contributing
